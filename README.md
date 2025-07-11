@@ -1,36 +1,50 @@
-<h1 align="center">Nunes aqui ! </h1>
+## Olá, sou Pedro Nunes !
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pehennu/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+
+- 👨🏾‍💻 Atualmente estudante de ADS
+- 🎯 Procurando por emprego
+- ✉️ E-mail pessoal: pehennu@gmail.com 
+
+##
+
+<div align=center>
+  <a href="https://github.com/pehennu">
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=pehennu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehennu&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 ---
 
 ### 💻 Linguagens mais usadas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehennu&layout=compact&langs_count=8&theme=dracula"/>
+<div align=center style="display: inline_block"><br>
+  <p>Linguagens que mais utilizo:</p>
+  <a href="https://github.com/pehennu"><img align="center" alt="JAVA-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a> 
+  <a href="https://github.com/pehennu"><img align="center" alt="PYTON-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a>   
+  <a href="https://github.com/pehennu"><img align="center" alt="MYSQL-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></a>   
 </div>
 
 ---
 
-### 🐍 Snake comendo commits
-
-<div align="center">
-  <img src="https://github.com/seu-usuario-github/pehennu-github/raw/output/github-contribution-grid-snake.svg" alt="snake game"/>
+<div align=center>
+  <p>Redes Sociais</p>
+<a href="https://www.linkedin.com/in/pehennu/" target="_blank"><img alt="LINKEDIN-logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://github.com/pehennu" target="_blank"><img alt="GITHUB-logo" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
+<a href="mailto:pehennu@gmail.com" target="_blank"><img alt="MAIL-logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>     
+    
 </div>
 
 ---
 
-### ✨ Sobre mim
-
-- 💼 Desenvolvedor apaixonado por tecnologia.
-- 🎓 Sempre aprendendo algo novo.
-- 🛠️ Stack: Java, Spring Boot, JavaScript, React, Docker...
-
----
-
-<!-- Snake animation GitHub Action -->
-<!-- Copie o workflow abaixo para seu repositório .github/workflows/snake.yml -->
+<div align=center>
+  
+ <img src="https://raw.githubusercontent.com/pehennu/pehennu/output/snake.svg" alt="Snake animation" />
+  
+</div>
+  
+## 
+  
+<div align="center">
+<br><p align="centre"><b>Contagem de visistas ao perfil</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pehennu}/count.svg" /></p> 
+<br></div>
