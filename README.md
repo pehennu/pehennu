@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Nunes aqui ! </h1>
 
-<!--
-**pehennu/pehennu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/pehennu/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Linguagens mais usadas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehennu-github&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
+---
+
+### 🐍 Snake comendo commits
+
+<div align="center">
+  <img src="https://github.com/seu-usuario-github/pehennu-github/raw/output/github-contribution-grid-snake.svg" alt="snake game"/>
+</div>
+
+---
+
+### ✨ Sobre mim
+
+- 💼 Desenvolvedor apaixonado por tecnologia.
+- 🎓 Sempre aprendendo algo novo.
+- 🛠️ Stack: Java, Spring Boot, JavaScript, React, Docker...
+
+---
+
+<!-- Snake animation GitHub Action -->
+<!-- Copie o workflow abaixo para seu repositório .github/workflows/snake.yml -->
