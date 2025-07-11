@@ -44,7 +44,3 @@
   
 ## 
   
-<div align="center">
-<br><p align="centre"><b>Views</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pehennu}/count.svg" /></p> 
-<br></div>
