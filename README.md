@@ -11,7 +11,7 @@
 ### 💻 Linguagens mais usadas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehennu-github&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehennu&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 ---
