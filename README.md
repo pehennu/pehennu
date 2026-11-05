@@ -1,7 +1,7 @@
 ## Olá, sou Pedro Nunes !
 
 
-- 👨🏾‍💻 Atualmente estudante de ADS
+- 👨🏾‍💻 Atualmente estudante de Ciencia de Dados 
 - 🎯 Procurando por emprego
 - ✉️ E-mail pessoal: pehennu@gmail.com 
 
