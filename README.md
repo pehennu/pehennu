@@ -1,10 +1,5 @@
-<!-- Banner Animado no Topo -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=180&section=header&text=Pedro%20Nunes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Back-end%20Developer%20%7C%20Data%20Science%20%26%20AI&descAlignY=58&descSize=18" width="100%"/>
-</div>
-
-<!-- Efeito de Texto Digitando -->
-<div align="center">
+  <h1>Olá, eu sou o Pedro Nunes! 👋</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Desenvolvedor+Back-end+Java+%26+Spring+Boot;Arquiteturas+Distribu%C3%ADdas+%26+Cloud;Estudante+de+Ci%C3%AAncia+de+Dados+%26+IA" alt="Typing SVG" />
   </a>
@@ -30,7 +25,7 @@ Desenvolvedor **Back-end** com mais de 4 anos de experiência no setor financeir
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-.NET-239120?style=flat-square&logo=dotnet&logoColor=white)
 
 **Arquitetura, Cloud & Mensageria**
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=docker&logoColor=white)
@@ -49,8 +44,7 @@ Desenvolvedor **Back-end** com mais de 4 anos de experiência no setor financeir
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pehennu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehennu&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://raw.githubusercontent.com/pehennu/pehennu/output/github-metrics.svg" alt="Estatísticas do GitHub" />
 </div>
 
 <br/>
@@ -62,9 +56,4 @@ Desenvolvedor **Back-end** com mais de 4 anos de experiência no setor financeir
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pehennu/pehennu/output/snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/pehennu/pehennu/output/snake-dark.svg" />
   </picture>
-</div>
-
-<!-- Rodapé Animado -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" width="100%"/>
 </div>
