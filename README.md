@@ -1,46 +1,46 @@
-## Olá, sou Pedro Nunes !
+### Olá, eu sou o Pedro Nunes! 👋
 
-
-- 👨🏾‍💻 Atualmente estudante de Ciencia de Dados 
-- 🎯 Procurando por emprego
-- ✉️ E-mail pessoal: pehennu@gmail.com 
-
-##
-
-<div align=center>
-  <a href="https://github.com/pehennu">
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=pehennu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehennu&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+Desenvolvedor **Back-end Java** com mais de 4 anos de experiência no setor financeiro, atuando na construção de APIs REST, arquiteturas de microsserviços e soluções escaláveis em nuvem (AWS). Atualmente, curso **Ciência de Dados e Inteligência Artificial** na Universidade Veiga de Almeida (UVA), unindo engenharia de software sólida à análise de dados.
 
 ---
 
-### 💻 Linguagens mais usadas
+### 💼 Experiência & Formação
 
-<div align=center style="display: inline_block"><br>
-  <p>Linguagens que mais utilizo:</p>
-  <a href="https://github.com/pehennu"><img align="center" alt="JAVA-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a> 
-  <a href="https://github.com/pehennu"><img align="center" alt="PYTON-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a>   
-  <a href="https://github.com/pehennu"><img align="center" alt="MYSQL-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></a>   
-</div>
+- 🏦 **Back-end Java Developer** — Experiência sólida em instituições financeiras (**Banco BV** via Datum e **Banco Itaú**), trabalhando com sustentação, evolução de sistemas críticos, mensageria e conformidade regulatória.
+- 🎓 **Ciência de Dados e Inteligência Artificial** — Graduando na Universidade Veiga de Almeida (UVA).
+- ☁️ **Formação Cloud** — Participante da jornada técnica MoveTech (Cloud).
 
 ---
 
-<div align=center>
-  <p>Redes Sociais</p>
-<a href="https://www.linkedin.com/in/pehennu/" target="_blank"><img alt="LINKEDIN-logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://github.com/pehennu" target="_blank"><img alt="GITHUB-logo" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
-<a href="mailto:pehennu@gmail.com" target="_blank"><img alt="MAIL-logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>     
-    
-</div>
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens & Frameworks**
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**Cloud, Mensageria & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+**Bancos de Dados & Análise**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![Amazon Aurora](https://img.shields.io/badge/Amazon_Aurora-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
+**Testes**
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=java&logoColor=white)
 
 ---
 
-<div align=center>
-  
- <img src="https://raw.githubusercontent.com/pehennu/pehennu/output/snake.svg" alt="Snake animation" />
-  
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pehennu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehennu&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-  
-## 
-  
