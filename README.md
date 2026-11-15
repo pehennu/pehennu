@@ -1,13 +1,8 @@
-<!-- Banner Cryo hospedado no próprio repositório -->
+<!-- Cabeçalho Animado Tema Cryo (Tsaritsa) -->
 <div align="center">
-  <img src="./banner-cryo.svg" alt="Pedro Nunes - Banner Cryo" width="100%"/>
-</div>
-
-<!-- Texto Digitando em Azul Glacial -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7AD7F0&center=true&vCenter=true&width=680&lines=Desenvolvedor+Back-end+Java+%26+Spring+Boot;Arquiteturas+Distribu%C3%ADdas+%26+Cloud;Estudante+de+Ci%C3%AAncia+de+Dados+%26+IA" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=E3FDFD&center=true&vCenter=true&width=700&height=55&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+Nunes!+%E2%9D%84%EF%B8%8F;PEDRO+NUNES+%7C+BACK-END+DEV" alt="Título Cryo" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1000&color=7AD7F0&center=true&vCenter=true&width=700&height=40&lines=Java+21+%26+Spring+Boot+%E2%80%A2+Arquiteturas+Distribu%C3%ADdas;Cloud+Computing+%26+Mensageria+Event-Driven;Ci%C3%AAncia+de+Dados+%26+Intelig%C3%AAncia+Artificial" alt="Subtítulo Cryo" />
 </div>
 
 <br/>
