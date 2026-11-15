@@ -27,14 +27,11 @@ jobs:
       - name: Apply Cryo Theme Colors
         run: |
           sed -i -E \
-            -e 's/#161b22/#0d1b2a/gi' \
-            -e 's/#0e4429/#132a4a/gi' \
-            -e 's/#006d32/#1e4875/gi' \
-            -e 's/#26a641/#3b82c4/gi' \
-            -e 's/#39d353/#7ad7f0/gi' \
-            -e 's/#2cbe4e/#7ad7f0/gi' \
-            -e 's/:green;/: #7ad7f0;/gi' \
-            -e 's/fill="green"/fill="#7ad7f0"/gi' \
+            -e 's/#161b22|#151b23/#0d1b2a/gi' \
+            -e 's/#0e4429|#01311f|#034525/#132a4a/gi' \
+            -e 's/#006d32|#0f6d31/#1e4875/gi' \
+            -e 's/#26a641|#00c647|#2ea043/#3b82c4/gi' \
+            -e 's/#39d353|#2cbe4e|#56d364/#7ad7f0/gi' \
             -e 's/purple/#e3fdfd/gi' \
             dist/snake-dark.svg
 
