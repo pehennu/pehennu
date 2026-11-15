@@ -51,5 +51,5 @@ Desenvolvedor **Back-end** com mais de 4 anos de experiência no setor financeir
 
 <!-- Animação da Cobrinha Cryo -->
 <div align="center">
-  <img alt="github-snake-cryo" src="https://raw.githubusercontent.com/pehennu/pehennu/output/snake-dark.svg?v=6" />
+  <img alt="github-snake-cryo" src="https://raw.githubusercontent.com/pehennu/pehennu/output/snake-dark.svg?v=7" />
 </div>
