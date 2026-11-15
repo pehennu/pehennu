@@ -1,4 +1,16 @@
-### Olá, eu sou o Pedro Nunes! 👋
+<!-- Banner Animado no Topo -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=180&section=header&text=Pedro%20Nunes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Back-end%20Developer%20%7C%20Data%20Science%20%26%20AI&descAlignY=58&descSize=18" width="100%"/>
+</div>
+
+<!-- Efeito de Texto Digitando -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Desenvolvedor+Back-end+Java+%26+Spring+Boot;Arquiteturas+Distribu%C3%ADdas+%26+Cloud;Estudante+de+Ci%C3%AAncia+de+Dados+%26+IA" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
 
 Desenvolvedor **Back-end** com mais de 4 anos de experiência no setor financeiro, atuando na construção de APIs, arquiteturas distribuídas e soluções escaláveis em nuvem. Atualmente, curso **Ciência de Dados e Inteligência Artificial** na Universidade Veiga de Almeida (UVA), unindo engenharia de software sólida à análise de dados.
 
@@ -39,4 +51,20 @@ Desenvolvedor **Back-end** com mais de 4 anos de experiência no setor financeir
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pehennu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehennu&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+<br/>
+
+<!-- Animação da Cobrinha (Contribuições) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pehennu/pehennu/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pehennu/pehennu/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/pehennu/pehennu/output/snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- Rodapé Animado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" width="100%"/>
 </div>
