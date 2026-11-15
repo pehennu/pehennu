@@ -44,13 +44,12 @@ Desenvolvedor **Back-end** com mais de 4 anos de experiência no setor financeir
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pehennu&show_icons=true&bg_color=0d1b2a&title_color=7ad7f0&text_color=e3fdfd&icon_color=a6e3e9&border_color=1e4875&include_all_commits=true&count_private=true" alt="Estatísticas" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pehennu&layout=compact&langs_count=6&bg_color=0d1b2a&title_color=7ad7f0&text_color=e3fdfd&border_color=1e4875" alt="Linguagens" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=pehennu&theme=tokyonight&background=0D1B2A&border=1E4875&stroke=1E4875&ring=7AD7F0&fire=A6E3E9&currStreakNum=E3FDFD&sideNums=E3FDFD&currStreakLabel=7AD7F0&sideLabels=A6E3E9&dates=8892B0" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- Animação da Cobrinha Cryo -->
 <div align="center">
-  <img alt="github-snake-cryo" src="https://raw.githubusercontent.com/pehennu/pehennu/output/snake-dark.svg?v=4" />
+  <img alt="github-snake-cryo" src="https://raw.githubusercontent.com/pehennu/pehennu/output/snake-dark.svg?v=5" />
 </div>
