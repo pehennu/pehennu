@@ -26,7 +26,17 @@ jobs:
 
       - name: Apply Cryo Theme Colors
         run: |
-          sed -i 's/#39d353/#7ad7f0/g; s/#26a641/#3b82c4/g; s/#006d32/#1b4978/g; s/#0e4429/#122b49/g; s/purple/#e3fdfd/g' dist/snake-dark.svg
+          sed -i -E \
+            -e 's/#161b22/#0d1b2a/gi' \
+            -e 's/#0e4429/#132a4a/gi' \
+            -e 's/#006d32/#1e4875/gi' \
+            -e 's/#26a641/#3b82c4/gi' \
+            -e 's/#39d353/#7ad7f0/gi' \
+            -e 's/#2cbe4e/#7ad7f0/gi' \
+            -e 's/:green;/: #7ad7f0;/gi' \
+            -e 's/fill="green"/fill="#7ad7f0"/gi' \
+            -e 's/purple/#e3fdfd/gi' \
+            dist/snake-dark.svg
 
       - name: Push files to the output branch
         uses: crazy-max/ghaction-github-pages@v4
