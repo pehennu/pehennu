@@ -44,12 +44,13 @@ Desenvolvedor **Back-end** com mais de 4 anos de experiência no setor financeir
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://raw.githubusercontent.com/pehennu/pehennu/output/github-metrics.svg" alt="Estatísticas do GitHub" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pehennu&show_icons=true&bg_color=0d1b2a&title_color=7ad7f0&text_color=e3fdfd&icon_color=a6e3e9&border_color=1e4875&include_all_commits=true&count_private=true" alt="Estatísticas" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pehennu&layout=compact&langs_count=6&bg_color=0d1b2a&title_color=7ad7f0&text_color=e3fdfd&border_color=1e4875" alt="Linguagens" />
 </div>
 
 <br/>
 
 <!-- Animação da Cobrinha Cryo -->
 <div align="center">
-  <img alt="github-snake-cryo" src="https://raw.githubusercontent.com/pehennu/pehennu/output/snake-cryo.svg" />
+  <img alt="github-snake-cryo" src="https://raw.githubusercontent.com/pehennu/pehennu/output/snake-dark.svg?v=2" />
 </div>
